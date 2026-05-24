@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-Analysis
+# Customer-Churn-Analysis
 
 Predictive analytics project focused on telecom customer churn using Logistic Regression, feature engineering, and business-driven evaluation metrics. Includes churn risk scoring and Power BI-ready outputs for retention analysis.
 
